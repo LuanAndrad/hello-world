@@ -15,7 +15,7 @@ altura = float(input('Digite sua altura: '))
 def calcula_imc(peso,altura):
     valor = peso / (altura**2)
     return(valor)
-
+#####
 valor = calcula_imc(peso,altura)
 
 if sexo == 'f':
