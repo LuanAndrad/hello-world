@@ -1,4 +1,6 @@
+import math
 
+print(math.pow(3,2))
 repetir = 's'
 fatura = []
 total = 0
